@@ -74,11 +74,7 @@ Como objetivos globales (ya tenido en cuenta en actividades anterirores):
 - el uso apropiado de las unidades de medida espaciales en el diseño (em, rem, %, ...)
 - la estilización de los elementos como apoyo a la comprensión de la interacción (ej.: ¿cómo hacer notar al usuario que sus acciones son correctas?)
 - la flexibilidad en el diseño: _var()_, _calc()_, _clamp(min, preferente, max)_
-
-# Indicaciones
-
-El estilo de codificación en el proyecto se apoya en las siguientes características:
-
+- El estilo de codificación en el proyecto se apoya en las siguientes características:
 - Atributo id: reservar este atributo para el acceso en JS de elementos HTML
 - Atributo class: reservar las clases fundamentalmente para estilizar con CSS los elementos HTML
 - [Notación BEM](https://getbem.com/) para seleccionar en CSS los elementos HTML
@@ -93,4 +89,3 @@ El estilo de codificación en el proyecto se apoya en las siguientes caracterís
 - Comentarios
   - incluir las referencias utilizadas para el diseño o codificación (MDN, Youtube, Stackoverflow , Coolors, etc.)
   - comentar los aspectos que faciliten la lectura del código cuando sea necesario, evitando los comentarios triviales que se limitan a reescribir el código
-# Mecanograf-a
